@@ -15,7 +15,8 @@ The individual py files were run in sequence.
 @article{buda_németh_simonovits_simonovits_2022,
   title={The language of discrimination: Assessing attention discrimination by Hungarian local governments},
   author={Buda, Jakab and Németh, Renáta and Simonovits, Bori and Simonovits, Gábor},
-  DOI={10.1007/s10579-022-09612-5}, journal={Language Resources and Evaluation}, 
-  year={2022}
+  journal={Language Resources and Evaluation}, 
+  year={2022},
+  DOI={10.1007/s10579-022-09612-5}
 } 
 ```
